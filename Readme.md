@@ -53,6 +53,7 @@ ANPR is a software which captures the image of the vehicle at the toll booth, th
 
 * **Mandar Mhapsekar**-[mandar10](https://github.com/mandar10)
 * **Prathmesh Mhapsekar**-[prathmesh36](https://github.com/prathmesh36)
+* **Omkar Dake**
 
 ## License
 
