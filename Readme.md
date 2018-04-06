@@ -44,6 +44,7 @@ ANPR is a software which captures the image of the vehicle at the toll booth, th
 ### Car Stolen Portal
 <center><img src="SS/6.png"></center>
 
+Black Book Link : [https://github.com/mandar10/ANPR/blob/master/BlackBook.pdf](https://github.com/mandar10/ANPR/blob/master/BlackBook.pdf)
 
 ## Built With
 
