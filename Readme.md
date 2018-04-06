@@ -1,6 +1,6 @@
-# Project Title
+# Automatic Number Plate Recognition System (ANPR)
 
-One Paragraph of project description goes here
+ANPR is a software which captures the image of the vehicle at the toll booth, then extracts the number plate of the vehicle from the image and performs OCR to get the plate number for further transaction and manipulation. 
 
 ## Getting Started
 
