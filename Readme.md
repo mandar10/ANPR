@@ -17,6 +17,11 @@ ANPR is a software which captures the image of the vehicle at the toll booth, th
 ### Main Software GUI
 <center><img src="SS/1.png"></center>
 
+### Main Software Result
+<center><img src="SS/7.png"></center>
+
+<center><img src="SS/8.png"></center>
+
 ### Web Home Page
 <center><img src="SS/2.png"></center>
 
@@ -32,10 +37,6 @@ ANPR is a software which captures the image of the vehicle at the toll booth, th
 ### Car Stolen Portal
 <center><img src="SS/6.png"></center>
 
-### Main Software Result
-<center><img src="SS/7.png"></center>
-
-<center><img src="SS/8.png"></center>
 
 ## Built With
 
