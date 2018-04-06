@@ -2,11 +2,11 @@
 
 Automatic number plate recognition has became very important in our daily life because of the
 unlimited increase of cars and transportation systems which make it impossible to be fully managed
-and monitored by humans, examples are so many like trac monitoring, tracking stolen cars, man-
+and monitored by humans, examples are so many like traffc monitoring, tracking stolen cars, man-
 aging parking toll, red-light violation enforcement, border and customs checkpoints. Yet its a very
-challenging problem, due to the diversity of plate formats, dierent scales, rotations and non-uniform
+challenging problem, due to the diversity of plate formats, different scales, rotations and non-uniform
 illumination conditions during image acquisition. Automatic number plate recognition system is used
-for the eective control of these vehicles.
+for the effective control of these vehicles.
 ANPR is a software which captures the image of the vehicle at the toll booth, then extracts the number plate of the vehicle from the image and performs OCR to get the plate number for further transaction and manipulation. 
 
 ## Getting Started
